@@ -1,0 +1,9 @@
+.iconButton {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.iconButton:hover {
+  filter: invert(1);
+}
